@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @taksayadav
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on c project 
-- 📫 How to reach me email me st yoyotaksayadav@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i am just trying to get better 
+# Hi, I'm Taksa Yadav 👋
 
-<!---
-taksayadav/taksayadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+BTech student passionate about Python, 
+Machine Learning and building real projects.
+
+---
+
+## 🛠️ Skills
+- Python
+- Machine Learning (Scikit-learn)
+- Data Analysis (Pandas, NumPy)
+- Flask Web Development
+- HTML & CSS
+
+---
+
+## 🚀 Projects
+
+### Academic Readiness Prediction System
+> ML web app that predicts student academic risk
+
+- Random Forest classifier with 84.8% accuracy
+- Custom weighted formula integrated as ML feature
+- Flask web interface with HTML & CSS
+- Predicts: AT RISK / MEDIUM / HIGH READY
+- Auto saves results to CSV report
+
+🔗 [View Project](https://github.com/taksayadav/-Academic-Readiness-Prediction-System)
+
+---
+
+## 📫 Contact
+- Email: yoyotaksayadav@gmail.com
+- GitHub: github.com/taksayadav
